@@ -6,7 +6,7 @@ This project is a mini clone of the Spotify web player interface, including a si
 
 ![Screenshot 2023-12-27 145749](https://github.com/vinods-coding/spotify_miniclone/assets/154896822/36095598-e3a0-47d6-a6fd-d03ff3803844)
 
-Clone the repository into your folder
+Clone the repository into your folder then,
 Open the `spotify.html` file in your web browser to explore the Spotify Mini Clone after saving in your pc.
 
 
