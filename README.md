@@ -6,6 +6,7 @@ This project is a mini clone of the Spotify web player interface, including a si
 
 ![Screenshot 2023-12-27 145749](https://github.com/vinods-coding/spotify_miniclone/assets/154896822/36095598-e3a0-47d6-a6fd-d03ff3803844)
 
+Clone the repository into your folder
 Open the `spotify.html` file in your web browser to explore the Spotify Mini Clone after saving in your pc.
 
 
@@ -35,9 +36,9 @@ Open the `spotify.html` file in your web browser to explore the Spotify Mini Clo
 
 ## Folder Structure
 
-- **css:** Contains the stylesheet (`spotify.css`).
+- **spotify.css:** Contains the stylesheet (`spotify.css`).
 - **images:** Holds the images used in the project (icons, album artwork).
-- **index.html:** The main HTML file for the Spotify Mini Clone.
+- **spotify.html:** The main HTML file for the Spotify Mini Clone.
 
 ## Technologies Used
 
